@@ -5,3 +5,6 @@ youtube.com/api/stats/ads
 youtube.com/gampad/
 youtube.com/pagead/
 static.doubleclick.net
+youtube.com/api/stats/watchtime?el=adunit
+youtube.com/api/stats/qoe?el=adunit
+youtube.com/api/stats/watchtime?is_ad=1
