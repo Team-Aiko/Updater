@@ -1,3 +1,7 @@
 ad.doubleclick.net
 googleads.g.doubleclick.net
 pagead2.googlesyndication.com
+youtube.com/api/stats/ads
+youtube.com/gampad/
+youtube.com/pagead/
+static.doubleclick.net
